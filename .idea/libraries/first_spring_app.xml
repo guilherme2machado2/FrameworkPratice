@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="first-spring-app">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/first-spring-app.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
